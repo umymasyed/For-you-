@@ -149,3 +149,12 @@ body{
 					transform: rotate(0deg);
 				}
 			}
+.name{
+    position :absolute ;
+    bottom :20%;
+    font-size :4rem;
+    left:33%;
+    color:#FE7696;
+    font-weight :bold ;
+    font-family: 'Sacramento', cursive;
+	}
